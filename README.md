@@ -13,3 +13,4 @@ I'm a beginner in programming
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/aldiprtm4)
 [![Instagram](https://img.shields.io/badge/Instagram-9B6954?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rinaldi_r7)
 [![Telegram](https://img.shields.io/badge/Telegram-9CF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/aldiprtm4)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-success?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285798257393)
