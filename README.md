@@ -1,9 +1,8 @@
-# Hi, I'm Aldi Pratama! 👋
-
 # 👤 Profile
 [![IMG-20210919-215749.jpg](https://i.postimg.cc/J41hjk5C/IMG-20210919-215749.jpg)](https://postimg.cc/qg50TgF1)
+My name is Aldi Pratama
 
-🔖 Stats
+🔖 My Github Stats
 [![Aldiipratama GitHub stats](https://github-readme-stats.vercel.app/api?username=aldiipratama&custom_title=Kartu+Tanda+Github&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&title_color=FAD000&icon_color=884DFF&border_color=000000&locale=id&text_color=96C3EB)](https://github.com/aldiipratama/github-readme-stats)
 
 ##### 🔗 Sosial Media
