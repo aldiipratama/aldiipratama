@@ -1,5 +1,5 @@
 # 👤 Profile
-[![IMG-20210919-215749.jpg](https://postimg.cc/qg50TgF1](https://i.postimg.cc/NjNnsPz6/IMG-20210919-215749-removebg.png)]
+[![image.png](https://postimg.cc/qg50TgF1](https://i.postimg.cc/NjNnsPz6/IMG-20210919-215749-removebg.png)]
 My name is Aldi Pratama
 
 🔖 My Github Stats
