@@ -6,9 +6,8 @@ visit my portfolio : https://aldiipratama.vercel.app/
 
 🔗 Sosial Media
 
-[![Facebook](https://img.shields.io/badge/+addfriend-brightgreen?style=for-the-badge&logo=Facebook&logoColor=white&label=Facebook&labelColor=blue)](https://facebook.com/aldii.prtm4)
-[![Instagram](https://img.shields.io/badge/+follow-brown?style=for-the-badge&logo=Instagram&logoColor=white&label=Instagram&labelColor=9B6954)](https://instagram.com/rinaldi_r7)
-[![Telegram](https://img.shields.io/badge/+contactme-blue?style=for-the-badge&logo=Telegram&logoColor=white&label=telegram&labelColor=9CF)](https://t.me/aldiprtm4)
+[![Twitter](https://img.shields.io/badge/+follow-9CF?style=for-the-badge&logo=Twitter&logoColor=white&label=Twitter&labelColor=blue)](https://twitter.com/paldi07)
+[![Instagram](https://img.shields.io/badge/+follow-brown?style=for-the-badge&logo=Instagram&logoColor=white&label=Instagram&labelColor=9B6954)](https://instagram.com/alx.dyy)
 [![Whatsapp](https://img.shields.io/badge/+contactme-green?style=for-the-badge&logo=Whatsapp&logoColor=white&label=WhatsApp&labelColor=success)](https://wa.me/6285798257393)
 
 🔖 My Github Stats
