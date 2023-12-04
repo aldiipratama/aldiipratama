@@ -1,5 +1,11 @@
-<img src="https://github.com/aldiipratama/aldiipratama/blob/29d9ea273fd3193e909dd995ed05f1b7baaa3360/assets/banner.png"></img>
-<h1 align='center'>Hi!👋</h1>
+<div align='center'>
+  <img src="https://github.com/aldiipratama/aldiipratama/blob/29d9ea273fd3193e909dd995ed05f1b7baaa3360/assets/banner.png" />
+    <p>Click Below For Show My Playing Song in Spotify 👇</p>
+    <a href='https://spotify-github-profile.vercel.app/api/view?uid=31kbeobkhgfbbckqvmhd55r7d5bq&redirect=true' target='_blank'>
+      <img src='https://spotify-github-profile.vercel.app/api/view?uid=31kbeobkhgfbbckqvmhd55r7d5bq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false' />
+    </a>
+  <h1>Hi!👋</h1>
+</div>
 
 <div align='center'>
   <p>> visit my portfolio : https://aldiipratama.vercel.app/</p>
@@ -35,14 +41,14 @@ const AldiiPratama = {
 ```
 
 <div align='center'>
-  <p>Follow my social media</p>
+  <p>Follow my social media 👇</p>
   <a href='https://twitter.com/paldi07' target='_blank'><img src='https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
   <a href='https://instagram.com/alx.dyy' target='_blank'><img src='https://img.shields.io/badge/instagram-brown?style=for-the-badge&logo=Instagram&logoColor=white' /></a>
   <a href='' target='_blank'><img src='https://img.shields.io/badge/linkedin-lightblue?style=for-the-badge&logo=Whatsapp&logoColor=white' /></a>
 </div>
 
 <div align='center'>
-  <p>My Github Stats</p>
+  <p>My Github Stats 👇</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiipratama&theme=algolia&hide_border=true&langs_count=5" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=aldiipratama&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /><br/>
   <img src='https://streak-stats.demolab.com?user=aldiipratama&theme=algolia&hide_border=true' />
