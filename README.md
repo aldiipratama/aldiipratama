@@ -1,4 +1,3 @@
-# 👤 Profile
 <img src="https://github.com/aldiipratama/aldiipratama/blob/29d9ea273fd3193e909dd995ed05f1b7baaa3360/assets/banner.png"></img>
 <h1 align='center'>Hi!👋</h1>
 
