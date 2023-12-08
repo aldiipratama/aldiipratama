@@ -8,7 +8,7 @@
 </div>
 
 <div align='center'>
-  <a href='https://aldiipratama.netlify.app' target='_blank'><img src='https://img.shields.io/badge/Visit_My_Portfolio-lightgreen?style=for-the-badge' /></a>
+  <a href='https://aldipratama.vercel.app' target='_blank'><img src='https://img.shields.io/badge/Visit_My_Portfolio-lightgreen?style=for-the-badge' /></a>
 </div>
 
 ```javascript
