@@ -61,4 +61,5 @@ const AldiiPratama = {
   <a href='/'>
     <img src='https://github-profile-trophy.vercel.app/?username=aldiipratama' />
   </a>
+  <img src='https://github.com/aldiipratama/aldiipratama/blob/output/snake.svg' alt='snake' />
 </div>
