@@ -42,9 +42,24 @@ const AldiiPratama = {
 
 <div align='center'>
   <p>Follow my social media 👇</p>
-  <a href='https://twitter.com/paldi07' target='_blank'><img src='https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
-  <a href='https://instagram.com/alx.dyy' target='_blank'><img src='https://img.shields.io/badge/instagram-brown?style=for-the-badge&logo=Instagram&logoColor=white' /></a>
-  <a href='' target='_blank'><img src='https://img.shields.io/badge/linkedin-lightblue?style=for-the-badge&logo=Whatsapp&logoColor=white' /></a>
+  <a href='https://linkedin.com/in/aldi-pratama-a21b61295'>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href='https://twitter.com/paldi07'>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href='https://discordapp.com/users/aldxprtm_'>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href='mailto:paldi0013@gmail.com'>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href='https://instagram.com/alx.dyy'>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href='https://wa.me/+6285798257393'>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 <div align='center'>
