@@ -17,7 +17,7 @@ const AldiiPratama = {
   code: ["HTML", "CSS", "Javascript", "Typescript", "Python", "Java", "PHP"],
   tools: ["Visual Studio Code", "Eclipse", "Figma", "PremierePro", "Canva", "Capcut", "Cisco"],
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
-  architecture: ["Single page Web Application"],
+  architecture: ["Single page Web Application", "Landing page web Application"],
   technologies: {
         FrontEnd: {
             CSS: ["Booststrap", "Tailwindcss"],
@@ -27,11 +27,11 @@ const AldiiPratama = {
             javascript: ["Node/NPM", "Express", "Git", "JQuery"],
             PHP: ["CodeIgniter", "Laravel"],
         },
-        mobileApp: ["React Native"],
-        databases: ["MySql"],
+        mobileApp: ["React Native", "Flutter", "Dart"],
+        databases: ["MySql", "Supabase"],
         devDependencies: {
             Tailwindcss: ["DaisyUI", "MaterialUI"],
-            React: ["React-Bootstrap", "Chakra-UI"],
+            React: ["React-Bootstrap", "Chakra-UI", "Shadcn-ui"],
             Python: ["Turtle"],
         },
   },
