@@ -45,7 +45,7 @@ const AldiiPratama = {
   <a href='https://linkedin.com/in/aldi-pratama-a21b61295'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href='https://twitter.com/paldi07'>
+  <a href='https://x.com/paldi07'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href='https://discordapp.com/users/aldxprtm_'>
@@ -56,9 +56,6 @@ const AldiiPratama = {
   </a>
   <a href='https://instagram.com/alx.dyy'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href='https://wa.me/+6285798257393'>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
