@@ -69,6 +69,11 @@
 
 </td>
 </tr>
+<tr>
+  <td colspan="2">
+    <img src='https://github.com/aldiipratama/aldiipratama/blob/output/snake.svg' alt='snake' />
+  </td>
+</tr>
 </table>
 
 <div align="center">
