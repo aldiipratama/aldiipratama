@@ -1,0 +1,17 @@
+name: Achievement Badges
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+jobs:
+  update-badges:
+    name: Update README with Credly Badges
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+    steps:
+      - name : Update Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: ${{github.actor}}
+          NUMBER_LAST_BADGES: 0
