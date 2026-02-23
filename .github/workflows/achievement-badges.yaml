@@ -14,6 +14,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: ${{github.actor}}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: aldiipratama/aldiipratama
           NUMBER_LAST_BADGES: 0
