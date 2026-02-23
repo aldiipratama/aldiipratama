@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Aldi%20Pratama&fontSize=80&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Aldi%20Pratama&fontSize=80&fontAlignY=35&desc=Frontend%20Developer%20focused%20on%20performance,%20accessibility,%20and%20scalable%20UI%20architecture.&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <a href="https://aldipratama.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-   <a href="https://linkedin.com/in/aldi-pratama-a21b61295">
+   <a href="https://linkedin.com/in/muhamad-rinaldi-agus-pratama-a21b61295">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -60,11 +60,8 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldiipratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiipratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldiipratama&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldiipratama&theme=tokyonight" width="100%"/>
 </div>
 
 </td>
